@@ -2,5 +2,4 @@
 *.dylib
 *.class
 *.o
-
-bin/
+bin/!.gitignore
